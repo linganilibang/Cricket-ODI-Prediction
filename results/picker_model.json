@@ -1,0 +1,122 @@
+{
+ "k": 30,
+ "tests": {
+  "without toss": {
+   "accuracy": 0.652542372881356,
+   "n": 472
+  },
+  "with toss": {
+   "accuracy": 0.6461864406779662,
+   "n": 472
+  }
+ },
+ "weights": {
+  "elo_diff": 0.004587094885962134,
+  "home_a": 0.420607257125406,
+  "played_diff": 0.7006245038986952,
+  "toss_a": 0.010079418805786411,
+  "batfirst_a": -0.14009996953600568
+ },
+ "teams": {
+  "England": {
+   "elo": 1622.6,
+   "played": 426,
+   "last": "2026-10-25"
+  },
+  "Sri Lanka": {
+   "elo": 1624.5,
+   "played": 466,
+   "last": "2026-10-22"
+  },
+  "India": {
+   "elo": 1756.2,
+   "played": 500,
+   "last": "2026-10-03"
+  },
+  "New Zealand": {
+   "elo": 1744.9,
+   "played": 374,
+   "last": "2026-07-21"
+  },
+  "Australia": {
+   "elo": 1690.5,
+   "played": 459,
+   "last": "2026-09-30"
+  },
+  "West Indies": {
+   "elo": 1553.8,
+   "played": 373,
+   "last": "2026-10-03"
+  },
+  "South Africa": {
+   "elo": 1690.0,
+   "played": 377,
+   "last": "2026-09-30"
+  },
+  "Zimbabwe": {
+   "elo": 1453.1,
+   "played": 271,
+   "last": "2026-10-17"
+  },
+  "Namibia": {
+   "elo": 1423.9,
+   "played": 80,
+   "last": "2026-10-24"
+  },
+  "Pakistan": {
+   "elo": 1719.8,
+   "played": 409,
+   "last": "2026-10-25"
+  },
+  "Canada": {
+   "elo": 1295.0,
+   "played": 69,
+   "last": "2026-10-17"
+  },
+  "Bangladesh": {
+   "elo": 1582.8,
+   "played": 324,
+   "last": "2026-10-17"
+  },
+  "Netherlands": {
+   "elo": 1463.2,
+   "played": 92,
+   "last": "2026-10-25"
+  },
+  "United States of America": {
+   "elo": 1492.9,
+   "played": 79,
+   "last": "2026-10-13"
+  },
+  "Ireland": {
+   "elo": 1448.6,
+   "played": 124,
+   "last": "2026-10-24"
+  },
+  "Scotland": {
+   "elo": 1520.6,
+   "played": 112,
+   "last": "2026-08-13"
+  },
+  "United Arab Emirates": {
+   "elo": 1294.5,
+   "played": 120,
+   "last": "2026-10-25"
+  },
+  "Papua New Guinea": {
+   "elo": 1242.0,
+   "played": 55,
+   "last": "2023-04-05"
+  },
+  "Nepal": {
+   "elo": 1427.3,
+   "played": 91,
+   "last": "2026-10-19"
+  },
+  "Oman": {
+   "elo": 1334.1,
+   "played": 72,
+   "last": "2026-10-19"
+  }
+ }
+}

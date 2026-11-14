@@ -1,0 +1,29 @@
+{
+ "recent_from": "2023-01-01",
+ "recent": {
+  "min_inn": 10,
+  "min_balls": 120,
+  "power_hitter_sr_cutoff": 92.0,
+  "players": 501,
+  "roles": {
+   "power": 21,
+   "anchor": 90,
+   "finisher": 49,
+   "allrounder": 72,
+   "bowler": 269
+  }
+ },
+ "all": {
+  "min_inn": 30,
+  "min_balls": 600,
+  "power_hitter_sr_cutoff": 87.7,
+  "players": 745,
+  "roles": {
+   "power": 30,
+   "anchor": 147,
+   "finisher": 70,
+   "allrounder": 95,
+   "bowler": 403
+  }
+ }
+}

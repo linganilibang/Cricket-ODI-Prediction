@@ -1,0 +1,473 @@
+date,team_a,team_b,venue,a_won,p_team_a_wins
+2023-01-09,Pakistan,New Zealand,"National Stadium, Karachi",1,0.504
+2023-01-10,Sri Lanka,India,"Barsapara Cricket Stadium, Guwahati",0,0.195
+2023-01-11,New Zealand,Pakistan,"National Stadium, Karachi",1,0.443
+2023-01-12,Sri Lanka,India,"Eden Gardens, Kolkata",0,0.136
+2023-01-13,New Zealand,Pakistan,"National Stadium, Karachi",1,0.564
+2023-01-15,Sri Lanka,India,"Greenfield International Stadium, Thiruvananthapuram",0,0.166
+2023-01-18,Ireland,Zimbabwe,Harare Sports Club,0,0.426
+2023-01-18,India,New Zealand,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.622
+2023-01-21,Zimbabwe,Ireland,Harare Sports Club,0,0.639
+2023-01-21,India,New Zealand,"Shaheed Veer Narayan Singh International Stadium, Raipur",1,0.756
+2023-01-24,India,New Zealand,"Holkar Cricket Stadium, Indore",1,0.704
+2023-01-27,England,South Africa,"Mangaung Oval, Bloemfontein",0,0.479
+2023-01-29,England,South Africa,"Mangaung Oval, Bloemfontein",0,0.37
+2023-02-01,South Africa,England,"Diamond Oval, Kimberley",0,0.592
+2023-02-14,Nepal,Namibia,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.492
+2023-02-15,Namibia,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.263
+2023-02-17,Nepal,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.376
+2023-02-18,Namibia,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.377
+2023-02-20,Namibia,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.324
+2023-02-21,Scotland,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.572
+2023-02-23,United Arab Emirates,Namibia,Dubai International Cricket Stadium,1,0.651
+2023-02-25,United Arab Emirates,Namibia,Dubai International Cricket Stadium,0,0.638
+2023-02-28,Papua New Guinea,United Arab Emirates,Dubai International Cricket Stadium,1,0.179
+2023-03-01,England,Bangladesh,"Shere Bangla National Stadium, Mirpur",1,0.595
+2023-03-02,Nepal,United Arab Emirates,Dubai International Cricket Stadium,0,0.441
+2023-03-03,England,Bangladesh,"Shere Bangla National Stadium, Mirpur",1,0.535
+2023-03-03,Papua New Guinea,Nepal,Dubai International Cricket Stadium,0,0.319
+2023-03-05,Papua New Guinea,United Arab Emirates,Dubai International Cricket Stadium,1,0.243
+2023-03-06,England,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",0,0.556
+2023-03-06,Nepal,United Arab Emirates,Dubai International Cricket Stadium,1,0.351
+2023-03-09,Papua New Guinea,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.321
+2023-03-10,Papua New Guinea,United Arab Emirates,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.373
+2023-03-12,United Arab Emirates,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.331
+2023-03-13,Papua New Guinea,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.235
+2023-03-15,United Arab Emirates,Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.566
+2023-03-16,United Arab Emirates,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.267
+2023-03-17,Australia,India,"Wankhede Stadium, Mumbai",0,0.293
+2023-03-18,West Indies,South Africa,"Buffalo Park, East London",1,0.178
+2023-03-18,Ireland,Bangladesh,Sylhet International Cricket Stadium,0,0.133
+2023-03-19,Australia,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1,0.285
+2023-03-21,South Africa,West Indies,"Senwes Park, Potchefstroom",1,0.786
+2023-03-21,Netherlands,Zimbabwe,Harare Sports Club,1,0.284
+2023-03-22,Australia,India,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.292
+2023-03-23,Bangladesh,Ireland,Sylhet International Cricket Stadium,1,0.914
+2023-03-23,Zimbabwe,Netherlands,Harare Sports Club,1,0.728
+2023-03-25,Sri Lanka,New Zealand,"Eden Park, Auckland",0,0.367
+2023-03-25,Zimbabwe,Netherlands,Harare Sports Club,1,0.805
+2023-03-26,United States of America,Namibia,"Wanderers Cricket Ground, Windhoek",1,0.461
+2023-03-27,Papua New Guinea,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",0,0.383
+2023-03-29,United States of America,Canada,"Wanderers Cricket Ground, Windhoek",0,0.844
+2023-03-30,Namibia,Jersey,"Wanderers Cricket Ground, Windhoek",1,0.93
+2023-03-30,United Arab Emirates,United States of America,"United Cricket Club Ground, Windhoek",0,0.475
+2023-03-31,New Zealand,Sri Lanka,"Seddon Park, Hamilton",1,0.728
+2023-03-31,South Africa,Netherlands,"Willowmoore Park, Benoni",1,0.973
+2023-04-01,United Arab Emirates,Canada,"Wanderers Cricket Ground, Windhoek",1,0.807
+2023-04-01,Jersey,Papua New Guinea,"United Cricket Club Ground, Windhoek",1,0.137
+2023-04-02,South Africa,Netherlands,"The Wanderers Stadium, Johannesburg",1,0.946
+2023-04-02,Papua New Guinea,United States of America,"Wanderers Cricket Ground, Windhoek",0,0.356
+2023-04-02,United Arab Emirates,Namibia,"United Cricket Club Ground, Windhoek",1,0.324
+2023-04-04,Canada,Namibia,"Wanderers Cricket Ground, Windhoek",0,0.251
+2023-04-04,United States of America,Jersey,"United Cricket Club Ground, Windhoek",1,0.85
+2023-04-05,Jersey,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",0,0.155
+2023-04-05,Canada,Papua New Guinea,"United Cricket Club Ground, Windhoek",1,0.324
+2023-04-21,Oman,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.373
+2023-04-27,Pakistan,New Zealand,Rawalpindi Cricket Stadium,1,0.592
+2023-04-29,New Zealand,Pakistan,Rawalpindi Cricket Stadium,0,0.376
+2023-04-29,United Arab Emirates,Oman,Mulpani Cricket Ground,1,0.522
+2023-05-01,United Arab Emirates,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.298
+2023-05-03,New Zealand,Pakistan,"National Stadium, Karachi",0,0.427
+2023-05-05,Pakistan,New Zealand,"National Stadium, Karachi",1,0.601
+2023-05-07,Pakistan,New Zealand,"National Stadium, Karachi",0,0.71
+2023-05-12,Bangladesh,Ireland,"County Ground, Chelmsford",1,0.866
+2023-05-14,Bangladesh,Ireland,"County Ground, Chelmsford",1,0.828
+2023-06-04,West Indies,United Arab Emirates,Sharjah Cricket Stadium,1,0.607
+2023-06-06,West Indies,United Arab Emirates,Sharjah Cricket Stadium,1,0.614
+2023-06-09,West Indies,United Arab Emirates,Sharjah Cricket Stadium,1,0.651
+2023-06-18,Nepal,Zimbabwe,Harare Sports Club,0,0.406
+2023-06-18,United States of America,West Indies,"Takashinga Sports Club, Highfield, Harare",0,0.226
+2023-06-19,Sri Lanka,United Arab Emirates,"Queens Sports Club, Bulawayo",1,0.791
+2023-06-19,Oman,Ireland,Bulawayo Athletic Club,1,0.393
+2023-06-20,Netherlands,Zimbabwe,Harare Sports Club,0,0.161
+2023-06-20,Nepal,United States of America,"Takashinga Sports Club, Highfield, Harare",1,0.647
+2023-06-21,Ireland,Scotland,"Queens Sports Club, Bulawayo",0,0.407
+2023-06-21,Oman,United Arab Emirates,Bulawayo Athletic Club,1,0.49
+2023-06-22,West Indies,Nepal,Harare Sports Club,1,0.715
+2023-06-22,Netherlands,United States of America,"Takashinga Sports Club, Highfield, Harare",1,0.442
+2023-06-23,Oman,Sri Lanka,"Queens Sports Club, Bulawayo",0,0.168
+2023-06-23,United Arab Emirates,Scotland,Bulawayo Athletic Club,0,0.352
+2023-06-24,Zimbabwe,West Indies,Harare Sports Club,1,0.315
+2023-06-24,Netherlands,Nepal,"Takashinga Sports Club, Highfield, Harare",1,0.332
+2023-06-25,Sri Lanka,Ireland,"Queens Sports Club, Bulawayo",1,0.745
+2023-06-25,Oman,Scotland,Bulawayo Athletic Club,0,0.353
+2023-06-26,Zimbabwe,United States of America,Harare Sports Club,1,0.66
+2023-06-27,Sri Lanka,Scotland,"Queens Sports Club, Bulawayo",1,0.662
+2023-06-27,United Arab Emirates,Ireland,Bulawayo Athletic Club,0,0.388
+2023-06-29,Zimbabwe,Oman,"Queens Sports Club, Bulawayo",1,0.729
+2023-06-30,Netherlands,Sri Lanka,"Queens Sports Club, Bulawayo",0,0.12
+2023-06-30,United States of America,Ireland,"Takashinga Sports Club, Highfield, Harare",0,0.275
+2023-07-01,Scotland,West Indies,Harare Sports Club,1,0.372
+2023-07-02,Zimbabwe,Sri Lanka,"Queens Sports Club, Bulawayo",0,0.328
+2023-07-02,Nepal,United Arab Emirates,"Takashinga Sports Club, Highfield, Harare",1,0.594
+2023-07-03,Netherlands,Oman,Harare Sports Club,1,0.324
+2023-07-04,Zimbabwe,Scotland,"Queens Sports Club, Bulawayo",0,0.616
+2023-07-04,Nepal,Ireland,"Takashinga Sports Club, Highfield, Harare",0,0.387
+2023-07-05,West Indies,Oman,Harare Sports Club,1,0.814
+2023-07-06,Scotland,Netherlands,"Queens Sports Club, Bulawayo",0,0.762
+2023-07-06,United States of America,United Arab Emirates,"Takashinga Sports Club, Highfield, Harare",0,0.489
+2023-07-07,West Indies,Sri Lanka,Harare Sports Club,0,0.37
+2023-07-09,Netherlands,Sri Lanka,Harare Sports Club,0,0.128
+2023-07-27,West Indies,India,"Kensington Oval, Bridgetown, Barbados",0,0.155
+2023-07-29,West Indies,India,"Kensington Oval, Bridgetown, Barbados",1,0.24
+2023-08-01,India,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",1,0.629
+2023-08-30,Pakistan,Nepal,Multan Cricket Stadium,1,0.901
+2023-08-31,Sri Lanka,Bangladesh,Pallekele International Cricket Stadium,1,0.523
+2023-09-04,Nepal,India,Pallekele International Cricket Stadium,0,0.065
+2023-09-06,Pakistan,Bangladesh,"Gaddafi Stadium, Lahore",1,0.731
+2023-09-07,Australia,South Africa,"Mangaung Oval, Bloemfontein",1,0.504
+2023-09-08,England,New Zealand,"Sophia Gardens, Cardiff",0,0.652
+2023-09-09,Australia,South Africa,"Mangaung Oval, Bloemfontein",1,0.427
+2023-09-09,Bangladesh,Sri Lanka,"R Premadasa Stadium, Colombo",0,0.435
+2023-09-10,New Zealand,England,"The Rose Bowl, Southampton",0,0.459
+2023-09-10,India,Pakistan,"R Premadasa Stadium, Colombo",1,0.568
+2023-09-12,Australia,South Africa,"Sedgars Park, Potchefstroom",0,0.548
+2023-09-12,Sri Lanka,India,"R Premadasa Stadium, Colombo",0,0.361
+2023-09-13,England,New Zealand,"Kennington Oval, London",1,0.621
+2023-09-14,Pakistan,Sri Lanka,"R Premadasa Stadium, Colombo",0,0.479
+2023-09-15,New Zealand,England,"Lord's, London",0,0.395
+2023-09-15,South Africa,Australia,"SuperSport Park, Centurion",1,0.453
+2023-09-15,Bangladesh,India,"R Premadasa Stadium, Colombo",1,0.193
+2023-09-17,Australia,South Africa,"The Wanderers Stadium, Johannesburg",0,0.478
+2023-09-17,Sri Lanka,India,"R Premadasa Stadium, Colombo",0,0.335
+2023-09-22,Australia,India,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",0,0.333
+2023-09-23,Ireland,England,"Trent Bridge, Nottingham",0,0.266
+2023-09-23,Bangladesh,New Zealand,"Shere Bangla National Stadium, Mirpur",0,0.615
+2023-09-24,Australia,India,"Holkar Cricket Stadium, Indore",0,0.317
+2023-09-26,Bangladesh,New Zealand,"Shere Bangla National Stadium, Mirpur",0,0.483
+2023-09-27,Australia,India,"Saurashtra Cricket Association Stadium, Rajkot",1,0.266
+2023-10-05,England,New Zealand,"Narendra Modi Stadium, Ahmedabad",0,0.551
+2023-10-06,Netherlands,Pakistan,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,0.083
+2023-10-07,Sri Lanka,South Africa,"Arun Jaitley Stadium, Delhi",0,0.473
+2023-10-08,Australia,India,"MA Chidambaram Stadium, Chepauk, Chennai",0,0.296
+2023-10-09,Netherlands,New Zealand,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,0.081
+2023-10-10,England,Bangladesh,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,0.605
+2023-10-10,Pakistan,Sri Lanka,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0.631
+2023-10-12,Australia,South Africa,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,0.593
+2023-10-13,Bangladesh,New Zealand,"MA Chidambaram Stadium, Chepauk, Chennai",0,0.386
+2023-10-14,India,Pakistan,"Narendra Modi Stadium, Ahmedabad",1,0.758
+2023-10-16,Australia,Sri Lanka,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,0.661
+2023-10-17,Netherlands,South Africa,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,0.052
+2023-10-19,Bangladesh,India,"Maharashtra Cricket Association Stadium, Pune",0,0.153
+2023-10-20,Pakistan,Australia,"M Chinnaswamy Stadium, Bengaluru",0,0.483
+2023-10-21,Netherlands,Sri Lanka,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,0.116
+2023-10-21,England,South Africa,"Wankhede Stadium, Mumbai",0,0.577
+2023-10-22,New Zealand,India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,0.196
+2023-10-24,South Africa,Bangladesh,"Wankhede Stadium, Mumbai",1,0.569
+2023-10-25,Netherlands,Australia,"Arun Jaitley Stadium, Delhi",0,0.057
+2023-10-26,England,Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",0,0.543
+2023-10-27,South Africa,Pakistan,"MA Chidambaram Stadium, Chepauk, Chennai",1,0.556
+2023-10-28,Australia,New Zealand,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,0.609
+2023-10-28,Bangladesh,Netherlands,"Eden Gardens, Kolkata",0,0.909
+2023-10-29,India,England,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,0.708
+2023-10-31,Bangladesh,Pakistan,"Eden Gardens, Kolkata",0,0.362
+2023-11-01,New Zealand,South Africa,"Maharashtra Cricket Association Stadium, Pune",0,0.456
+2023-11-02,India,Sri Lanka,"Wankhede Stadium, Mumbai",1,0.8
+2023-11-04,New Zealand,Pakistan,"M Chinnaswamy Stadium, Bengaluru",0,0.488
+2023-11-04,England,Australia,"Narendra Modi Stadium, Ahmedabad",0,0.479
+2023-11-05,India,South Africa,"Eden Gardens, Kolkata",1,0.707
+2023-11-06,Bangladesh,Sri Lanka,"Arun Jaitley Stadium, Delhi",1,0.469
+2023-11-08,Netherlands,England,"Maharashtra Cricket Association Stadium, Pune",0,0.115
+2023-11-09,Sri Lanka,New Zealand,"M Chinnaswamy Stadium, Bengaluru",0,0.465
+2023-11-11,Bangladesh,Australia,"Maharashtra Cricket Association Stadium, Pune",0,0.221
+2023-11-11,Pakistan,England,"Eden Gardens, Kolkata",0,0.516
+2023-11-12,India,Netherlands,"M Chinnaswamy Stadium, Bengaluru",1,0.973
+2023-11-15,New Zealand,India,"Wankhede Stadium, Mumbai",0,0.218
+2023-11-16,South Africa,Australia,"Eden Gardens, Kolkata",0,0.401
+2023-11-19,Australia,India,"Narendra Modi Stadium, Ahmedabad",1,0.335
+2023-12-03,England,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",0,0.574
+2023-12-06,England,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",1,0.59
+2023-12-09,England,West Indies,"Kensington Oval, Bridgetown, Barbados",0,0.549
+2023-12-15,Ireland,Zimbabwe,Harare Sports Club,1,0.446
+2023-12-17,South Africa,India,"The Wanderers Stadium, Johannesburg",0,0.501
+2023-12-17,New Zealand,Bangladesh,"University Oval, Dunedin",1,0.711
+2023-12-17,Zimbabwe,Ireland,Harare Sports Club,0,0.521
+2023-12-19,South Africa,India,"St George's Park, Gqeberha",1,0.533
+2023-12-20,New Zealand,Bangladesh,"Saxton Oval, Nelson",1,0.769
+2023-12-21,India,South Africa,"Boland Park, Paarl",1,0.351
+2023-12-23,New Zealand,Bangladesh,"McLean Park, Napier",0,0.7
+2024-01-08,Zimbabwe,Sri Lanka,"R Premadasa Stadium, Colombo",0,0.203
+2024-01-11,Sri Lanka,Zimbabwe,"R Premadasa Stadium, Colombo",1,0.812
+2024-02-02,Australia,West Indies,Melbourne Cricket Ground,1,0.877
+2024-02-04,Australia,West Indies,Sydney Cricket Ground,1,0.83
+2024-02-06,Australia,West Indies,"Manuka Oval, Canberra",1,0.877
+2024-02-08,Nepal,Canada,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.854
+2024-02-10,Nepal,Canada,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.884
+2024-02-12,Canada,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.105
+2024-02-15,Namibia,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.302
+2024-02-17,Netherlands,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.299
+2024-02-19,Netherlands,Namibia,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.537
+2024-02-21,Nepal,Namibia,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.703
+2024-02-23,Netherlands,Namibia,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.571
+2024-02-25,Nepal,Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.66
+2024-02-28,Canada,United Arab Emirates,Dubai International Cricket Stadium,1,0.227
+2024-03-01,Scotland,Canada,Dubai International Cricket Stadium,0,0.828
+2024-03-03,Scotland,United Arab Emirates,Dubai International Cricket Stadium,1,0.62
+2024-03-05,Canada,United Arab Emirates,Dubai International Cricket Stadium,1,0.223
+2024-03-07,Canada,Scotland,Dubai International Cricket Stadium,1,0.222
+2024-03-13,Bangladesh,Sri Lanka,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,0.581
+2024-03-15,Bangladesh,Sri Lanka,"Zahur Ahmed Chowdhury Stadium, Chattogram",0,0.579
+2024-03-18,Bangladesh,Sri Lanka,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,0.61
+2024-07-18,Namibia,Oman,"Forthill, Dundee",1,0.608
+2024-07-20,Scotland,Namibia,"Forthill, Dundee",1,0.716
+2024-07-22,Scotland,Oman,"Forthill, Dundee",1,0.853
+2024-07-24,Namibia,Oman,"Forthill, Dundee",0,0.582
+2024-07-26,Namibia,Scotland,"Forthill, Dundee",0,0.236
+2024-08-04,India,Sri Lanka,"R Premadasa Stadium, Colombo",0,0.774
+2024-08-07,Sri Lanka,India,"R Premadasa Stadium, Colombo",1,0.271
+2024-08-11,Canada,Netherlands,"Sportpark Westvliet, The Hague",0,0.186
+2024-08-13,Canada,United States of America,"Sportpark Westvliet, The Hague",0,0.405
+2024-08-15,Netherlands,United States of America,"Sportpark Westvliet, The Hague",1,0.687
+2024-08-17,Canada,Netherlands,"Hazelaarweg, Rotterdam",0,0.267
+2024-08-19,United States of America,Canada,"Hazelaarweg, Rotterdam",1,0.623
+2024-08-21,United States of America,Netherlands,"Hazelaarweg, Rotterdam",0,0.362
+2024-09-16,Namibia,United States of America,"United Cricket Club Ground, Windhoek",0,0.626
+2024-09-16,Canada,Nepal,"Maple Leaf North-West Ground, King City",1,0.272
+2024-09-18,United States of America,United Arab Emirates,"United Cricket Club Ground, Windhoek",1,0.593
+2024-09-18,Oman,Nepal,"Maple Leaf North-West Ground, King City",1,0.455
+2024-09-19,England,Australia,"Trent Bridge, Nottingham",0,0.322
+2024-09-20,Namibia,United Arab Emirates,"United Cricket Club Ground, Windhoek",0,0.662
+2024-09-20,Canada,Oman,"Maple Leaf North-West Ground, King City",1,0.411
+2024-09-21,England,Australia,"Headingley, Leeds",0,0.367
+2024-09-22,United States of America,Namibia,"United Cricket Club Ground, Windhoek",1,0.441
+2024-09-22,Canada,Nepal,"Maple Leaf North-West Ground, King City",1,0.484
+2024-09-24,Australia,England,"Riverside Ground, Chester-le-Street",0,0.611
+2024-09-24,United States of America,United Arab Emirates,"United Cricket Club Ground, Windhoek",1,0.538
+2024-09-26,Namibia,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",1,0.562
+2024-09-26,Canada,Oman,"Maple Leaf North-West Ground, King City",1,0.57
+2024-09-27,Australia,England,"Lord's, London",0,0.721
+2024-09-29,England,Australia,"County Ground, Bristol",0,0.343
+2024-10-02,South Africa,Ireland,"Zayed Cricket Stadium, Abu Dhabi",1,0.808
+2024-10-04,Ireland,South Africa,"Zayed Cricket Stadium, Abu Dhabi",0,0.176
+2024-10-07,Ireland,South Africa,"Zayed Cricket Stadium, Abu Dhabi",1,0.13
+2024-10-20,Sri Lanka,West Indies,Pallekele International Cricket Stadium,1,0.736
+2024-10-23,West Indies,Sri Lanka,Pallekele International Cricket Stadium,0,0.232
+2024-10-25,United States of America,Scotland,"Grand Prairie Stadium, Dallas",0,0.407
+2024-10-26,West Indies,Sri Lanka,Pallekele International Cricket Stadium,1,0.259
+2024-10-29,Scotland,Nepal,"Grand Prairie Stadium, Dallas",0,0.61
+2024-10-31,England,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",0,0.48
+2024-10-31,United States of America,Scotland,"Grand Prairie Stadium, Dallas",0,0.481
+2024-11-01,United Arab Emirates,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.413
+2024-11-02,England,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",1,0.53
+2024-11-02,United States of America,Nepal,"Grand Prairie Stadium, Dallas",1,0.471
+2024-11-03,Netherlands,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.725
+2024-11-04,Australia,Pakistan,Melbourne Cricket Ground,1,0.783
+2024-11-05,Netherlands,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.521
+2024-11-06,England,West Indies,"Kensington Oval, Bridgetown, Barbados",0,0.471
+2024-11-07,Oman,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.624
+2024-11-08,Australia,Pakistan,Adelaide Oval,0,0.784
+2024-11-09,Netherlands,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.558
+2024-11-10,Pakistan,Australia,Perth Stadium,1,0.345
+2024-11-11,Netherlands,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.555
+2024-11-13,New Zealand,Sri Lanka,Rangiri Dambulla International Stadium,0,0.447
+2024-11-17,New Zealand,Sri Lanka,Pallekele International Cricket Stadium,0,0.35
+2024-11-24,Pakistan,Zimbabwe,"Queens Sports Club, Bulawayo",0,0.793
+2024-11-26,Zimbabwe,Pakistan,"Queens Sports Club, Bulawayo",0,0.262
+2024-11-28,Zimbabwe,Pakistan,"Queens Sports Club, Bulawayo",0,0.31
+2024-12-08,Bangladesh,West Indies,"Warner Park, Basseterre, St Kitts",0,0.394
+2024-12-10,West Indies,Bangladesh,"Warner Park, Basseterre, St Kitts",1,0.651
+2024-12-12,Bangladesh,West Indies,"Warner Park, Basseterre, St Kitts",0,0.319
+2024-12-17,South Africa,Pakistan,"Boland Park, Paarl",0,0.601
+2024-12-19,South Africa,Pakistan,"Newlands, Cape Town",0,0.698
+2024-12-22,Pakistan,South Africa,"The Wanderers Stadium, Johannesburg",1,0.325
+2025-01-05,Sri Lanka,New Zealand,"Basin Reserve, Wellington",0,0.411
+2025-01-08,Sri Lanka,New Zealand,"Seddon Park, Hamilton",0,0.433
+2025-01-11,Sri Lanka,New Zealand,"Eden Park, Auckland",1,0.363
+2025-02-06,England,India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",0,0.206
+2025-02-08,New Zealand,Pakistan,"Gaddafi Stadium, Lahore",1,0.302
+2025-02-08,Namibia,United States of America,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.535
+2025-02-09,India,England,"Barabati Stadium, Cuttack",1,0.851
+2025-02-10,New Zealand,South Africa,"Gaddafi Stadium, Lahore",1,0.641
+2025-02-10,Namibia,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.402
+2025-02-12,India,England,"Narendra Modi Stadium, Ahmedabad",1,0.781
+2025-02-12,South Africa,Pakistan,"National Stadium, Karachi",0,0.319
+2025-02-12,Sri Lanka,Australia,"R Premadasa Stadium, Colombo",1,0.425
+2025-02-12,Oman,United States of America,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.528
+2025-02-14,New Zealand,Pakistan,"National Stadium, Karachi",1,0.381
+2025-02-14,Ireland,Zimbabwe,Harare Sports Club,0,0.476
+2025-02-14,United States of America,Namibia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.468
+2025-02-14,Sri Lanka,Australia,"R Premadasa Stadium, Colombo",1,0.449
+2025-02-16,Zimbabwe,Ireland,Harare Sports Club,0,0.57
+2025-02-16,Oman,Namibia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.591
+2025-02-18,Zimbabwe,Ireland,Harare Sports Club,1,0.614
+2025-02-18,United States of America,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.411
+2025-02-19,New Zealand,Pakistan,"National Stadium, Karachi",1,0.358
+2025-02-20,India,Bangladesh,Dubai International Cricket Stadium,1,0.877
+2025-02-22,Australia,England,"Gaddafi Stadium, Lahore",1,0.618
+2025-02-23,Pakistan,India,Dubai International Cricket Stadium,0,0.187
+2025-02-24,New Zealand,Bangladesh,Rawalpindi Cricket Stadium,1,0.697
+2025-03-01,England,South Africa,"National Stadium, Karachi",0,0.439
+2025-03-02,New Zealand,India,Dubai International Cricket Stadium,0,0.322
+2025-03-04,Australia,India,Dubai International Cricket Stadium,0,0.297
+2025-03-05,South Africa,New Zealand,"Gaddafi Stadium, Lahore",0,0.465
+2025-03-07,Netherlands,Namibia,"Wanderers Cricket Ground, Windhoek",1,0.547
+2025-03-09,New Zealand,India,Dubai International Cricket Stadium,0,0.227
+2025-03-13,Netherlands,Namibia,"Wanderers Cricket Ground, Windhoek",1,0.643
+2025-03-15,Namibia,Canada,"Wanderers Cricket Ground, Windhoek",1,0.536
+2025-03-29,New Zealand,Pakistan,"McLean Park, Napier",1,0.536
+2025-04-02,Pakistan,New Zealand,"Seddon Park, Hamilton",0,0.468
+2025-04-05,New Zealand,Pakistan,"Bay Oval, Mount Maunganui",1,0.523
+2025-05-04,United Arab Emirates,Scotland,"VRA Ground, Amstelveen",0,0.208
+2025-05-06,Netherlands,United Arab Emirates,"VRA Ground, Amstelveen",1,0.661
+2025-05-08,Scotland,United Arab Emirates,"VRA Ground, Amstelveen",0,0.823
+2025-05-10,Netherlands,Scotland,"VRA Ground, Amstelveen",1,0.43
+2025-05-12,Netherlands,United Arab Emirates,"Sportpark Maarschalkerweerd, Utrecht",1,0.771
+2025-05-14,United Arab Emirates,Scotland,"Sportpark Maarschalkerweerd, Utrecht",0,0.217
+2025-05-16,Netherlands,Scotland,"Sportpark Maarschalkerweerd, Utrecht",0,0.564
+2025-05-17,United States of America,Canada,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",1,0.741
+2025-05-19,Canada,Oman,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",0,0.431
+2025-05-21,West Indies,Ireland,"Castle Avenue, Dublin",0,0.694
+2025-05-23,Oman,Canada,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",1,0.674
+2025-05-25,Ireland,West Indies,"Castle Avenue, Dublin",0,0.439
+2025-05-25,United States of America,Canada,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",1,0.808
+2025-05-27,Oman,United States of America,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",0,0.313
+2025-05-29,West Indies,England,"Edgbaston, Birmingham",0,0.353
+2025-06-01,West Indies,England,"Sophia Gardens, Cardiff",0,0.294
+2025-06-02,Scotland,Nepal,"Forthill, Dundee",0,0.722
+2025-06-03,England,West Indies,"Kennington Oval, London",1,0.745
+2025-06-04,Nepal,Netherlands,"Forthill, Dundee",1,0.51
+2025-06-06,Scotland,Netherlands,"Forthill, Dundee",1,0.697
+2025-06-08,Nepal,Scotland,"Forthill, Dundee",0,0.32
+2025-06-10,Nepal,Netherlands,"Forthill, Dundee",1,0.478
+2025-06-12,Netherlands,Scotland,"Forthill, Dundee",1,0.249
+2025-07-02,Bangladesh,Sri Lanka,"R Premadasa Stadium, Colombo",0,0.234
+2025-07-05,Bangladesh,Sri Lanka,"R Premadasa Stadium, Colombo",1,0.152
+2025-07-08,Bangladesh,Sri Lanka,Pallekele International Cricket Stadium,0,0.269
+2025-08-08,West Indies,Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",0,0.431
+2025-08-10,West Indies,Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",1,0.458
+2025-08-12,West Indies,Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",1,0.462
+2025-08-19,Australia,South Africa,"Cazaly's Stadium, Cairns",0,0.799
+2025-08-22,South Africa,Australia,"Great Barrier Reef Arena, Mackay",1,0.218
+2025-08-24,South Africa,Australia,"Great Barrier Reef Arena, Mackay",0,0.322
+2025-08-27,Namibia,Canada,"Maple Leaf North-West Ground, King City",1,0.589
+2025-08-29,Zimbabwe,Sri Lanka,Harare Sports Club,0,0.271
+2025-08-31,Zimbabwe,Sri Lanka,Harare Sports Club,0,0.203
+2025-08-31,Scotland,Canada,"Maple Leaf North-West Ground, King City",1,0.786
+2025-09-02,England,South Africa,"Headingley, Leeds",0,0.623
+2025-09-02,Namibia,Canada,"Maple Leaf North-West Ground, King City",1,0.557
+2025-09-04,England,South Africa,"Lord's, London",0,0.666
+2025-09-04,Namibia,Scotland,"Maple Leaf North-West Ground, King City",0,0.339
+2025-09-07,England,South Africa,"The Rose Bowl, Southampton",1,0.583
+2025-10-18,Bangladesh,West Indies,"Shere Bangla National Stadium, Mirpur",1,0.459
+2025-10-19,India,Australia,Perth Stadium,0,0.621
+2025-10-23,Australia,India,Adelaide Oval,1,0.48
+2025-10-23,Bangladesh,West Indies,"Shere Bangla National Stadium, Mirpur",1,0.495
+2025-10-25,Australia,India,Sydney Cricket Ground,0,0.503
+2025-10-26,England,New Zealand,"Bay Oval, Mount Maunganui",0,0.29
+2025-10-26,United States of America,Nepal,Dubai International Cricket Stadium,1,0.483
+2025-10-28,United States of America,United Arab Emirates,Dubai International Cricket Stadium,1,0.68
+2025-10-29,New Zealand,England,"Seddon Park, Hamilton",1,0.767
+2025-10-30,Nepal,United Arab Emirates,"ICC Academy, Dubai",0,0.617
+2025-11-01,England,New Zealand,"Sky Stadium, Wellington",0,0.245
+2025-11-01,United States of America,Nepal,"ICC Academy, Dubai",1,0.596
+2025-11-03,United States of America,United Arab Emirates,Dubai International Cricket Stadium,1,0.616
+2025-11-04,South Africa,Pakistan,"Iqbal Stadium, Faisalabad",0,0.31
+2025-11-05,United Arab Emirates,Nepal,"ICC Academy, Dubai",1,0.48
+2025-11-06,South Africa,Pakistan,"Iqbal Stadium, Faisalabad",1,0.299
+2025-11-08,South Africa,Pakistan,"Iqbal Stadium, Faisalabad",0,0.299
+2025-11-11,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,0,0.495
+2025-11-14,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,0,0.365
+2025-11-16,New Zealand,West Indies,"Hagley Oval, Christchurch",1,0.83
+2025-11-16,Pakistan,Sri Lanka,Rawalpindi Cricket Stadium,1,0.7
+2025-11-19,New Zealand,West Indies,"McLean Park, Napier",1,0.847
+2025-11-22,West Indies,New Zealand,"Seddon Park, Hamilton",0,0.159
+2025-11-30,South Africa,India,"JSCA International Stadium Complex, Ranchi",0,0.168
+2025-12-03,India,South Africa,"Shaheed Veer Narayan Singh International Stadium, Raipur",0,0.825
+2025-12-06,India,South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1,0.823
+2026-01-11,India,New Zealand,"Kotambi Stadium, Vadodara",1,0.811
+2026-01-14,India,New Zealand,"Niranjan Shah Stadium, Rajkot",0,0.73
+2026-01-18,India,New Zealand,"Holkar Cricket Stadium, Indore",0,0.816
+2026-01-22,Sri Lanka,England,"R Premadasa Stadium, Colombo",1,0.604
+2026-01-24,England,Sri Lanka,"R Premadasa Stadium, Colombo",1,0.364
+2026-01-27,England,Sri Lanka,"R Premadasa Stadium, Colombo",1,0.333
+2026-03-11,Pakistan,Bangladesh,"Shere Bangla National Stadium, Mirpur",0,0.517
+2026-03-13,Bangladesh,Pakistan,"Shere Bangla National Stadium, Mirpur",0,0.519
+2026-03-15,Bangladesh,Pakistan,"Shere Bangla National Stadium, Mirpur",1,0.422
+2026-04-04,Namibia,Oman,"Namibia Cricket Ground, Windhoek",0,0.629
+2026-04-08,Oman,Scotland,"Namibia Cricket Ground, Windhoek",1,0.219
+2026-04-10,Namibia,Oman,"Namibia Cricket Ground, Windhoek",1,0.64
+2026-04-12,Namibia,Scotland,"Namibia Cricket Ground, Windhoek",0,0.407
+2026-04-17,New Zealand,Bangladesh,"Shere Bangla National Stadium, Mirpur",1,0.62
+2026-04-20,Bangladesh,New Zealand,"Shere Bangla National Stadium, Mirpur",1,0.369
+2026-04-23,Bangladesh,New Zealand,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",1,0.402
+2026-04-25,Nepal,United Arab Emirates,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.731
+2026-04-27,Oman,United Arab Emirates,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.668
+2026-04-29,Oman,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.269
+2026-05-01,United Arab Emirates,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.296
+2026-05-03,United Arab Emirates,Oman,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.367
+2026-05-05,Oman,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.337
+2026-05-12,Scotland,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.5
+2026-05-14,United States of America,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.396
+2026-05-16,United States of America,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.359
+2026-05-18,Nepal,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",1,0.485
+2026-05-20,Scotland,United States of America,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.649
+2026-05-22,United States of America,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",0,0.392
+2026-05-30,Pakistan,Australia,Rawalpindi Cricket Stadium,1,0.549
+2026-06-02,Australia,Pakistan,"Gaddafi Stadium, Lahore",1,0.428
+2026-06-03,Sri Lanka,West Indies,"Sabina Park, Kingston, Jamaica",1,0.503
+2026-06-04,Pakistan,Australia,"Gaddafi Stadium, Lahore",1,0.54
+2026-06-06,United States of America,Canada,"Maple Leaf North-West Ground, King City",1,0.728
+2026-06-08,Netherlands,United States of America,"Maple Leaf North-West Ground, King City",1,0.422
+2026-06-09,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",1,0.35
+2026-06-10,Canada,Netherlands,"Maple Leaf North-West Ground, King City",1,0.349
+2026-06-11,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",1,0.486
+2026-06-12,Canada,United States of America,"Maple Leaf North-West Ground, King City",0,0.318
+2026-06-14,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",0,0.465
+2026-07-06,Zimbabwe,Bangladesh,Harare Sports Club,1,0.255
+2026-07-09,Bangladesh,Zimbabwe,Harare Sports Club,0,0.694
+2026-07-11,Zimbabwe,Bangladesh,Harare Sports Club,0,0.334
+2026-07-11,New Zealand,West Indies,"Providence Stadium, Guyana",0,0.718
+2026-07-13,New Zealand,West Indies,"Providence Stadium, Guyana",1,0.718
+2026-07-14,India,England,"Edgbaston, Birmingham",1,0.65
+2026-07-16,India,England,"Sophia Gardens, Cardiff",0,0.607
+2026-07-16,West Indies,New Zealand,"Providence Stadium, Guyana",0,0.274
+2026-07-19,India,England,"Lord's, London",0,0.651
+2026-07-19,New Zealand,West Indies,"Kensington Oval, Bridgetown, Barbados",1,0.728
+2026-07-21,New Zealand,West Indies,"Kensington Oval, Bridgetown, Barbados",0,0.665
+2026-07-21,Nepal,Namibia,"Sportpark Maarschalkerweerd, Utrecht",0,0.585
+2026-07-23,Netherlands,Nepal,"Sportpark Maarschalkerweerd, Utrecht",1,0.619
+2026-07-25,Netherlands,Namibia,"Sportpark Maarschalkerweerd, Utrecht",1,0.626
+2026-07-27,Nepal,Namibia,"Sportpark Maarschalkerweerd, Utrecht",0,0.601
+2026-07-29,Netherlands,Nepal,"Sportpark Maarschalkerweerd, Utrecht",1,0.653
+2026-07-31,Namibia,Netherlands,"Sportpark Maarschalkerweerd, Utrecht",1,0.322
+2026-08-07,Scotland,Canada,"Forthill, Dundee",1,0.833
+2026-08-09,Scotland,United Arab Emirates,"Forthill, Dundee",1,0.841
+2026-08-11,United Arab Emirates,Canada,"Forthill, Dundee",1,0.557
+2026-08-13,Canada,Scotland,"Forthill, Dundee",0,0.125
+2026-09-08,Oman,United Arab Emirates,"YSD-UKM Cricket Oval, Bangi",0,0.587
+2026-09-09,Namibia,South Africa,"Namibia Cricket Ground, Windhoek",0,0.323
+2026-09-10,Nepal,Oman,"Bayuemas Oval, Kuala Lumpur",1,0.577
+2026-09-11,South Africa,Namibia,"Namibia Cricket Ground, Windhoek",1,0.682
+2026-09-12,United Arab Emirates,Nepal,"Bayuemas Oval, Kuala Lumpur",0,0.378
+2026-09-13,South Africa,Namibia,"Namibia Cricket Ground, Windhoek",1,0.769
+2026-09-15,Zimbabwe,Australia,Harare Sports Club,0,0.277
+2026-09-18,Australia,Zimbabwe,Harare Sports Club,1,0.742
+2026-09-20,Australia,Zimbabwe,Harare Sports Club,1,0.79
+2026-09-22,England,Sri Lanka,"Riverside Ground, Chester-le-Street",1,0.608
+2026-09-24,England,Sri Lanka,Headingley,0,0.683
+2026-09-24,Australia,South Africa,"Kingsmead, Durban",0,0.513
+2026-09-27,England,Sri Lanka,The Oval,1,0.581
+2026-09-27,South Africa,Australia,"Wanderers Stadium, Johannesburg",1,0.546
+2026-09-27,India,West Indies,"Greenfield International Stadium, Thiruvananthapuram",1,0.898
+2026-09-30,South Africa,Australia,"Senwes Park, Potchefstroom",0,0.637
+2026-09-30,West Indies,India,"Barsapara Cricket Stadium, Guwahati",0,0.096
+2026-10-03,West Indies,India,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,0.132
+2026-10-05,United Arab Emirates,United States of America,"Grand Prairie Stadium, Dallas",0,0.233
+2026-10-07,United States of America,Namibia,"Grand Prairie Stadium, Dallas",1,0.672
+2026-10-09,United Arab Emirates,Namibia,"Grand Prairie Stadium, Dallas",0,0.357
+2026-10-09,Canada,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.334
+2026-10-11,United States of America,United Arab Emirates,"Grand Prairie Stadium, Dallas",1,0.847
+2026-10-11,Nepal,Canada,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.747
+2026-10-13,United States of America,Namibia,"Grand Prairie Stadium, Dallas",0,0.659
+2026-10-13,Oman,Nepal,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.478
+2026-10-15,Canada,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.226
+2026-10-17,Nepal,Canada,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),0,0.808
+2026-10-17,Bangladesh,Zimbabwe,"Sheikh Zayed Stadium, Abu Dhabi",0,0.702
+2026-10-18,Sri Lanka,Pakistan,Rawalpindi Cricket Stadium,0,0.347
+2026-10-19,Nepal,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),1,0.543
+2026-10-20,Pakistan,England,Rawalpindi Cricket Stadium,1,0.564
+2026-10-22,Sri Lanka,England,Rawalpindi Cricket Stadium,1,0.478
+2026-10-22,Namibia,Ireland,"High Performance Oval, Windhoek",0,0.593
+2026-10-24,Namibia,Ireland,"High Performance Oval, Windhoek",1,0.453
+2026-10-25,England,Pakistan,"Gaddafi Stadium, Lahore",0,0.304
+2026-10-25,Netherlands,United Arab Emirates,"ICC Academy, Dubai",1,0.622

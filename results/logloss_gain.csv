@@ -1,0 +1,7 @@
+model,vs,logloss_gain,ci_low,ci_high
+Logistic: Elo + home advantage,Logistic: Elo only,0.0234388598087388,0.008709143460911823,0.03806964639957219
+Logistic: Elo + form/venue/squad (no toss),Logistic: Elo only,0.01926648859327592,-0.002501566100250733,0.04125458802411774
+Logistic: all features (incl. toss),Logistic: Elo only,0.02189467170489504,-0.0018408113119069687,0.047088108382469435
+Logistic: all features + player strength,Logistic: Elo only,0.018855556320679853,-0.010941126355435682,0.046344249505598324
+Logistic: Elo + home + player strength,Logistic: Elo only,0.017862595543204414,-0.006965672439039121,0.04069041401670474
+Boosting: all features (incl. toss),Logistic: Elo only,0.028391173470354237,0.002899255850694977,0.052868557377147976
