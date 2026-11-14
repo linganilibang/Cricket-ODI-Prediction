@@ -289,7 +289,7 @@ details.expl dd { margin: 0; color: var(--ink2); }
     <a href="#pick-xi">Pick your XI</a>
   </nav>
 
-  <!-- ============ TAB 1: MATCH PREDICTOR (unchanged) ============ -->
+  <!-- TAB 1: MATCH PREDICTOR  -->
   <div class="panel narrow" id="tab-predictor">
     <section class="card" aria-labelledby="hHero">
       <p class="eyebrow" id="hHero">The result</p>
@@ -347,7 +347,7 @@ details.expl dd { margin: 0; color: var(--ink2); }
     </section>
   </div>
 
-  <!-- ============ TAB: PREDICT A MATCH ============ -->
+  <!--  TAB: PREDICT A MATCH -->
   <div class="panel narrow" id="tab-picker" hidden>
     <section class="card" aria-labelledby="mpT">
       <h2 id="mpT">Pick two teams</h2>
@@ -374,7 +374,7 @@ details.expl dd { margin: 0; color: var(--ink2); }
     </section>
   </div>
 
-  <!-- ============ TAB: PLAYER EXPLORER ============ -->
+  <!-- TAB: PLAYER EXPLORER  -->
   <div class="panel" id="tab-players" hidden>
     <div class="filters">
       <div class="seg" role="group" aria-label="Time period" data-seg="period">
@@ -420,7 +420,7 @@ details.expl dd { margin: 0; color: var(--ink2); }
     </section>
   </div>
 
-  <!-- ============ TAB 3: PICK YOUR XI ============ -->
+  <!-- TAB 3: PICK YOUR XI  -->
   <div class="panel" id="tab-pick-xi" hidden>
     <div class="filters">
       <div class="seg" role="group" aria-label="Time period" data-seg="period">
@@ -485,7 +485,7 @@ details.expl dd { margin: 0; color: var(--ink2); }
   var fmtDate = function (iso, withYear) { var p = iso.split('-').map(Number); return p[2] + ' ' + MON[p[1] - 1] + (withYear ? ' ' + p[0] : ''); };
   var fmtInt = function (n) { return Number(n).toLocaleString('en-US'); };
 
-  /* PURE:START */
+  
   var DER = {
     avg: function (p) { return p.outs ? p.runs / p.outs : null; },
     sr: function (p) { return p.balls ? 100 * p.runs / p.balls : null; },
@@ -506,7 +506,7 @@ details.expl dd { margin: 0; color: var(--ink2); }
       bsr: t.w ? t.bb / t.w : null, dot: t.bb ? 100 * t.dots / t.bb : null
     };
   }
-  /* PURE:END */
+  
 
   /* ---------- tooltip ---------- */
   var tipEl = $('#tip');
@@ -534,9 +534,9 @@ details.expl dd { margin: 0; color: var(--ink2); }
   }
   function hideTip() { tipEl.hidden = true; }
 
-  /* =====================================================================
+  /* 
      TAB 1: MATCH PREDICTOR
-     ===================================================================== */
+      */
   var best = D.metrics.find(function (m) { return m.model === 'Logistic: all features (incl. toss)'; });
   var rule = D.metrics.find(function (m) { return m.model === 'Rule: higher Elo wins'; });
   var coin = D.metrics.find(function (m) { return m.model.indexOf('Coin') === 0; });
@@ -715,9 +715,9 @@ details.expl dd { margin: 0; color: var(--ink2); }
 
   $('#foot').textContent = 'Data: Cricsheet ball-by-ball records (ODC-By licence), men’s ODIs up to ' + fmtDate(D.test_last, true) + '. Team strength uses the Elo method with K=' + D.k + '.';
 
-  /* =====================================================================
+  /* 
      PLAYER DATA (shared by tabs 2 and 3)
-     ===================================================================== */
+     */
   var PERIODS = ['recent', 'all'];
   var IDX = { recent: {}, all: {} };
   PERIODS.forEach(function (k) {
@@ -759,9 +759,9 @@ details.expl dd { margin: 0; color: var(--ink2); }
     if (state.tab === 'pick-xi') renderXI();
   }
 
-  /* =====================================================================
+  /* 
      TAB 2: PLAYER EXPLORER
-     ===================================================================== */
+      */
   function roleDesc(key) {
     var m = D.meta[state.period], overs = Math.round(m.min_balls / 6);
     var d = {
@@ -946,9 +946,9 @@ details.expl dd { margin: 0; color: var(--ink2); }
   if (window.ResizeObserver) new ResizeObserver(function () { requestAnimationFrame(drawScatter); }).observe($('#pScatter')); window.addEventListener('resize', drawScatter);
   $('#pTeam').addEventListener('change', function (e) { state.team = e.target.value; state.limit = 10; state.sortKey = null; renderExplorer(); });
 
-  /* =====================================================================
+  /* 
      TAB 3: PICK YOUR XI
-     ===================================================================== */
+      */
   try {
     var saved = JSON.parse(localStorage.getItem('odi-xi-v1') || 'null');
     if (saved) PERIODS.forEach(function (k) { state.xi[k] = (saved[k] || []).filter(function (id) { return IDX[k][id]; }).slice(0, 11); });
@@ -1032,9 +1032,9 @@ details.expl dd { margin: 0; color: var(--ink2); }
   $('#xClear').addEventListener('click', function () { state.xi[state.period] = []; saveXI(); renderXI(); });
 
 
-  /* =====================================================================
+  /* 
      PREDICT A MATCH (small model: strength, home, matches played, toss)
-     ===================================================================== */
+     */
   var PM = D.picker, PW = PM.weights, PT = PM.teams;
   var pnames = Object.keys(PT).sort(function (a, b) { return PT[b].elo - PT[a].elo; });
   var mpA = $('#mpA'), mpB = $('#mpB');
@@ -1103,9 +1103,9 @@ details.expl dd { margin: 0; color: var(--ink2); }
   [mpA, mpB].forEach(function (e) { e.addEventListener('change', function () { fillMP(); renderMP(); }); });
   $('#mpHome').addEventListener('change', renderMP); $('#mpToss').addEventListener('change', renderMP);
 
-  /* =====================================================================
+  /* 
      TABS (hash routing: #predictor, #players, #pick-xi)
-     ===================================================================== */
+     */
   var TABS = ['predictor', 'picker', 'players', 'pick-xi'];
   function route() {
     var hsh = (location.hash || '').replace('#', '');
